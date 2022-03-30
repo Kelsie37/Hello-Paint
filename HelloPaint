@@ -1,0 +1,4 @@
+class HelloPaint {
+  public static void main(String[] args)
+    system.out.printLn("Hello, Paint");
+}
